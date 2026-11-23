@@ -10,7 +10,7 @@ Funktionen:
 Technick
 - Java mit JavaFX für die Oberfläche
 - SQLite über JDBC (Zugriff über eine DAO-Klasse mit PreparedStatements)
-- Objektorientierter Aufbau: abstrakte Klasse `Lernkarte` mit Unterklassen, Interfaces und eigene Exceptions
+- Objektorientierter Aufbau: abstrakte Klasse Lernkarte mit Unterklassen, Interfaces und eigene Exceptions
 - Entwickelt in Eclipse, Zusammenarbeit über Git
 
 Hinweis
